@@ -1,0 +1,28 @@
+name: whyamisotired
+favicon: null
+layout_spectrum: 0.32497463608160615
+typography_spectrum: 0.37714043934829533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8556454211939126
+  lightness: 0.23158557200804353
+  saturation: 0.6704271878115833
+  rhythmicContrast: 0.8339413800276816
+purpose: []
