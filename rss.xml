@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[whyamisotired]]></title>
+        <description><![CDATA[whyamisotired]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 07 Jun 2016 15:39:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Colleen's Story]]></title>
+            <description><![CDATA[<article><h1>Colleen's Story</h1><p>OK. How do I start to tell you about what the 12 Week Total Body Turnaround Program with Adam did for me? I'll start with just a little background on myself and that should help you to understand. </p></article>]]></description>
+            <link>undefinedcolleens-story/index.html</link>
+            <guid isPermaLink="false">33326cd5-d87e-43bb-a241-095649f78ae4</guid>
+            <pubDate>Tue, 07 Jun 2016 15:39:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
