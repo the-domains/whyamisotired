@@ -4,19 +4,24 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-07T15:39:41.488Z'
-dateModified: '2016-06-07T15:37:25.400Z'
+description: >-
+  OK. How do I start to tell you about what the 12 Week Total Body Turnaround
+  Program with Adam did for me? I'll start with just a little background on
+  myself and that should help you to understand. 
+datePublished: '2016-06-07T17:06:11.630Z'
+dateModified: '2016-06-07T17:05:50.793Z'
 title: Colleen's Story
 author: []
+sourcePath: _posts/2016-06-07-colleens-story.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-colleens-story.md
 url: colleens-story/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44e8af65-13e9-44e9-b401-9b325892d14b.jpg)
+
 ### Colleen's Story
 
 OK. How do I start to tell you about what the 12 Week Total Body Turnaround Program with Adam did for me? I'll start with just a little background on myself and that should help you to understand. 
